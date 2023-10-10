@@ -1,2 +1,1 @@
-# PrepCourseH
-Repositorio de prueba mod2
+Esta es una prueba de como crear un rep y clonarlo desde mi desktop
